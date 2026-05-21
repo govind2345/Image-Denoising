@@ -1,0 +1,29 @@
+
+Epoch 21:
+
+Best Epoch: 26
+
+Final Metrics:
+Training Loss: 0.0551
+psnr: 29.9035
+ssim: 0.7375
+defect_psnr: 42.705745697021484
+defect_ssim: 0.9906
+
+Best Epoch: 2
+
+Final Metrics:
+Training Loss: 0.1425
+psnr: 27.9290
+ssim: 0.5453
+defect_psnr: 33.677276611328125
+defect_ssim: 0.9924
+
+Best Epoch: 5
+
+Final Metrics:
+Training Loss: 0.1562
+psnr: 28.3913
+ssim: 0.4539
+defect_psnr: 33.619449615478516
+defect_ssim: 0.9636
